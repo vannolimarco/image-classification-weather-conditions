@@ -39,7 +39,7 @@
       |_1860363.csv #predictions in csv format
     -README.md #this file
   
- #information
+ # information
  In order to run the code, you need the training and testing dataset
  provide by the subject of Machine Learning Sapienza MAAR 2019/2020.
 
