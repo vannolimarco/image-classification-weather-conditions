@@ -53,4 +53,4 @@ class paths(object):
 
         #Prediction obtained from CNN performed by tranfer learning VGG16
         self.PATH_PRED_TRANFER_LEARN = _BASE_RES_PATH + '\\predictions_transfer_learning\\'
-        self.PATH_IMAGES_BLIND_TEST_PREDICTED_CSV = _BASE_RES_PATH + '1860363{}'.format(self.CSV)
+        self.PATH_IMAGES_BLIND_TEST_PREDICTED_CSV = _BASE_RES_PATH + 'csv_image_classified{}'.format(self.CSV)
