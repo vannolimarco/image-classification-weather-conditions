@@ -1,3 +1,5 @@
+![Logo Sapienza](/logo-sapienza-new.jpg)
+
 # Welcome to Vannoli Marco github 
 The repository is dedicated to machine learning, in particulary to the image-classification of weather conditions. Inside it, you will find the code implemented and the image classified through model trained. The images have been producted by my self.
 # Report about it
