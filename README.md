@@ -1,4 +1,13 @@
-# Machine Learning 2019  Vannoli Marco
+# Welcome to Vannoli Marco github 
+The repository is dedicated to machine learning, in particulary to the image-classification of weather conditions. Inside it, you will find the code implemented and the image classified through model trained. The images have been producted by my self.
+# Report about it
+The report producted by my self you can find inside the repository. Enjoy!
+# Info about me
+I am a student at the faculty of Artificial Inteligent and robotics of Sapienza (Rome). I am originally from Subiaco (RM) and I am passionate about the world of robotics and artificial intelligence, I am always active and enthusiastic when there is a new project to do, like this one!
+
+## Support or Contact
+my email: vannolimarco@hotmail.it, thanks!
+
 
 ## skeleton
     - code       #all code
