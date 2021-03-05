@@ -6,7 +6,7 @@ import prediction
 
 
 '''
-   Script py to save prediction from dataset created byt myself to path for predction about CNN model
+   Script py to save prediction from dataset created to path for prediction about CNN model
 '''
 
 paths = pathconfig.paths()
